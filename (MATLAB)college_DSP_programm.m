@@ -15,7 +15,7 @@ disp(B',"The Transpose of matrix B is :");
 disp(det(A),"The determinat of matrix A is :");
 disp(det(C),"The determinat of matrix C is :");
 
-OUTPUT :
+OUTPUT of matrix Operation :
 
  The Sum of Matrix A and B :   
     15. + i      16.          25.  
@@ -44,7 +44,7 @@ OUTPUT :
 
 
 
-                        //(2).Sin wave :---
+                        //(2).Geneation of Sin wave :---
 clc;
 clf;
 clear all;
@@ -57,7 +57,7 @@ xlabel('t');
 ylabel('x');
 
 
-                        //(3).Generaton of cosine wave :---
+                        //(3).Generation of cosine wave :---
 clc;
 clf;
 clear all;
